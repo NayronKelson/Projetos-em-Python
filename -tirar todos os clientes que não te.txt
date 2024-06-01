@@ -1,0 +1,32 @@
+-tirar todos os clientes que não tem lista de mercado pronto na escola pro e passar para IS
+- não tirar churn da escola pro
+
+
+https://redash.federate.frubana.com/queries/204537/source
+
+https://redash.federate.frubana.com/queries/205943/source
+
+https://redash.federate.frubana.com/queries/207456/source
+
+https://lookerstudio.google.com/u/0/reporting/dd66c87c-7892-425b-9a1e-e7e743748105/page/p_130r4782ad/edit
+
+https://lookerstudio.google.com/u/0/reporting/70dda0f8-2d9d-44fa-9f56-fc139294f1fd/page/p_7hiwsitmdd/edit
+
+https://docs.google.com/spreadsheets/d/1187Gdf5hRXfCmy76MWPBayhq84TMOJIKxbzjzGK669o/edit#gid=1550338388
+
+https://redash.federate.frubana.com/queries/199526/source
+
+https://docs.google.com/spreadsheets/d/1TFw-N7lzKUvEOp3SOkNjtdtbKMvDmKk-J9sggwKlAZ4/edit#gid=909026208
+
+https://redash.federate.frubana.com/queries/195774/source
+
+https://lookerstudio.google.com/u/0/reporting/63a34148-07e1-42b5-aff3-a32b91237af2/page/p_zdackc6ogd/edit
+
+https://redash.federate.frubana.com/queries/211100/source
+https://docs.google.com/spreadsheets/d/1fPAmZUqSNeCRTSR7OWCAMQAv07yt7X-AxC0ZMXv-3As/edit#gid=1264568233
+
+https://redash.federate.frubana.com/queries/new
+
+https://redash.federate.frubana.com/queries/209529/source
+
+https://redash.federate.frubana.com/queries/211278/source
